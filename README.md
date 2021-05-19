@@ -1,3 +1,5 @@
+## This repository was merged into the main translation project [here](https://github.com/IllusionMods/KoikatsuTranslation)
+
 ![preview](https://user-images.githubusercontent.com/39247311/53176845-2ecaa880-35ef-11e9-87eb-884927b77510.png)
 # Koikatsu! Image Translation
 This is an English translation of the Illusion eroge [Koikatu](http://illusion.jp/preview/koikatu/) and its English version [Koikatsu Party](https://store.steampowered.com/app/1073440/__Koikatsu_Party/) (the English release doesn't translate Studio and expansion content, this fills in the gaps). This project only translates images. For text check [bbepis/KoikatsuTranslation](https://github.com/bbepis/KoikatsuTranslation) and [DeathWeasel1337/Koikatsu-Translations](https://github.com/DeathWeasel1337/Koikatsu-Translations).
